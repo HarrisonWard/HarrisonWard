@@ -40,7 +40,6 @@ I am putting the practical artifacts of this work into the open: control mapping
 ### Elsewhere
 
 - LinkedIn — [in/harrisonaward](https://linkedin.com/in/harrisonaward)
-- Email — harrison@iward.net
 - Location — Dallas / Fort Worth, TX
 
 ---
