@@ -46,6 +46,7 @@ That's one of eleven things I say a lot. The rest are in **[PRINCIPLES.md](https
 
 | | |
 |---|---|
+| **Harrison Ward Technology** | Owner, security-first managed services for North Texas small businesses |
 | **Kroll** | SVP, Cyber Risk Advisory Services |
 | **Roberts Markel Weinberg Butler Hailey PC** | Chief Technology Officer |
 | **Alvarez & Marsal** | Manager, Forensic Technology Services |
@@ -62,7 +63,27 @@ EnCE · RCA · Cellebrite CCLO and CCPA
 
 I talk in analogies because framework language doesn't move anybody. That repo is 727 of them.
 
-The rest gets posted as I finish it. Control mappings, policy sets, tabletop scenarios, board briefing structures, assessment scaffolding.
+The rest, grouped by the job you're trying to do:
+
+**Build the Program**
+- **[Security Program Starter](https://github.com/HarrisonWard/Security-Program-Starter).** Twenty-two readable policies for a company that has none. Mapped to CIS Controls v8.
+- **[Least Privilege and RBAC](https://github.com/HarrisonWard/Least-Privilege-and-RBAC).** Access that maps to real jobs, and reviews that aren't checkbox theater.
+- **[TPRM Right-Sized](https://github.com/HarrisonWard/TPRM-RightSized).** Third-party risk a 300-person company can actually run.
+- **[AI Governance Kit](https://github.com/HarrisonWard/AI-Governance-Kit).** Policy, intake, tiering, and a risk register for GenAI and agents. Mapped to NIST AI RMF and ISO 42001.
+- **[OT Security for IT People](https://github.com/HarrisonWard/OT-Security-for-IT-People).** For the IT lead who just got handed a plant.
+
+**Lead It**
+- **[vCISO Playbook](https://github.com/HarrisonWard/vCISO-Playbook).** How to run a vCISO engagement well. First 90 days, cadence, and how it goes wrong.
+- **[Hiring Your First Security Person](https://github.com/HarrisonWard/Hiring-Your-First-Security-Person).** Hire vs. vCISO vs. MSSP, and a job description that attracts operators.
+- **[Board Cyber Briefings](https://github.com/HarrisonWard/Board-Cyber-Briefings)** and **[The Board One-Pager](https://github.com/HarrisonWard/The-Board-One-Pager).** Three numbers, one story, one ask.
+
+**Practice and Respond**
+- **[Tabletop Library](https://github.com/HarrisonWard/Tabletop-Library).** Full scenario packs with injects and facilitator notes.
+- **[IR: The First 24 Hours](https://github.com/HarrisonWard/IR-First-24-Hours).** The page you grab at 6am, not the binder.
+- **[Verify Before You Pay](https://github.com/HarrisonWard/Verify-Before-You-Pay).** Beating business email compromise and voice-clone fraud with one habit.
+
+**Start at Home**
+- **[Security Starts at Home](https://github.com/HarrisonWard/Security-Starts-at-Home).** Fifteen minutes tonight for your money, your accounts, your parents, your kids.
 
 All of it [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, change it, sell services on top of it. Just say where you got it.
 
